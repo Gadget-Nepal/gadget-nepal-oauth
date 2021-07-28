@@ -52,7 +52,7 @@
 import {mapGetters} from 'vuex';
 
 export default {
-    name: "AppBar"
+    name: "AppBar",
     data() {
         return {
             menu: false,

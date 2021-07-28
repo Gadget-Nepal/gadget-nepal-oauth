@@ -7,7 +7,7 @@
                         <v-img max-width="120" src="/storage/assets/images/sarangcode_logo_only.png"/>
                         <v-divider class="mx-4" vertical></v-divider>
                         <div class="d-flex flex-column">
-                            <h3><strong>Sarangcode Technology</strong></h3>
+                            <h3><strong>Gadget Nepal</strong></h3>
                             <h4>OAuth2 Server - Login</h4>
                         </div>
                     </div>
